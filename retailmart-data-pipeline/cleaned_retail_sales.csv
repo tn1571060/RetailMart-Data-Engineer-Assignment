@@ -1,0 +1,14 @@
+sale_id,store_id,product_id,quantity,sale_date,amount,product_name,category,price,store_name,city,region,total_revenue
+1,101,201,2.0,2026-06-01,1000.0,Laptop,Electronics,500,RetailMart Jaipur,Jaipur,North,1000.0
+2,102,202,1.0,2026-06-01,500.0,Headphones,Electronics,500,RetailMart Delhi,Delhi,North,500.0
+3,103,203,0.0,2026-06-02,1200.0,Office Chair,Furniture,400,RetailMart Mumbai,Mumbai,West,0.0
+4,101,204,3.0,2026-06-02,1500.0,Desk,Furniture,500,RetailMart Jaipur,Jaipur,North,1500.0
+6,102,201,5.0,2026-06-03,2500.0,Laptop,Electronics,500,RetailMart Delhi,Delhi,North,2500.0
+7,103,202,4.0,2026-06-04,2000.0,Headphones,Electronics,500,RetailMart Mumbai,Mumbai,West,2000.0
+8,104,203,1.0,2026-06-04,400.0,Office Chair,Furniture,400,RetailMart Bangalore,Bangalore,South,400.0
+9,101,205,0.0,2026-06-05,900.0,Keyboard,Accessories,450,RetailMart Jaipur,Jaipur,North,0.0
+10,102,204,2.0,2026-06-05,1000.0,Desk,Furniture,500,RetailMart Delhi,Delhi,North,1000.0
+11,103,201,3.0,2026-06-06,1500.0,Laptop,Electronics,500,RetailMart Mumbai,Mumbai,West,1500.0
+12,104,202,2.0,2026-06-06,1000.0,Headphones,Electronics,500,RetailMart Bangalore,Bangalore,South,1000.0
+13,101,203,6.0,2026-06-07,2400.0,Office Chair,Furniture,400,RetailMart Jaipur,Jaipur,North,2400.0
+14,102,205,1.0,2026-06-07,450.0,Keyboard,Accessories,450,RetailMart Delhi,Delhi,North,450.0
